@@ -50,7 +50,7 @@ I also write about technology, software architecture, and best practices in full
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-hashem-2b96912a7/))
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-hashem-2b96912a7/))
 - Email: [your.email@example.com](mh.mohamed.hashem@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project, or if you just want to chat about tech, code, or anything in between!
