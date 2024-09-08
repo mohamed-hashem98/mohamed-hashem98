@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mohamed Hashem
 
-I’m a Senior Fullstack Developer with a passion for crafting dynamic, scalable, and efficient web applications. I specialize in building robust backends with Ruby (Rails, Sinatra) and engaging frontends with React. With over 4 years of experience, I have led projects across various domains including e-commerce, SaaS, fintech, and more.
+I’m a Senior Fullstack Developer with a passion for crafting dynamic, scalable, and efficient web applications. I specialize in building robust backends with Ruby (Rails, Sinatra) and engaging frontends with React. With over 4 years of experience, I have developed projects across various domains including e-commerce, Educational, SaaS, fintech, and more.
 
 ## 💻 Tech Stack
 
@@ -50,7 +50,7 @@ I also write about technology, software architecture, and best practices in full
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-hashem-2b96912a7/))
+- LinkedIn: [Mohamed Hashem](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mohamed-hashem-2b96912a7/))
 - Email: [mh.mohamed.hashem@gmail.com](mh.mohamed.hashem@gmail.com)
 
 Feel free to reach out if you want to collaborate on a project, or if you just want to chat about tech, code, or anything in between!
