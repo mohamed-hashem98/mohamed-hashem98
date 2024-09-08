@@ -4,10 +4,6 @@ I’m a Senior Fullstack Developer with a passion for crafting dynamic, scalable
 
 ## 💻 Tech Stack
 
-### Frontend
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
-- **Frameworks:** React, Next.js, Redux, Context API, Tailwind CSS, Bootstrap
-
 ### Backend
 - **Languages:** Ruby, Python, JavaScript
 - **Frameworks:** Ruby on Rails, Django, Sinatra, Node.js
@@ -20,6 +16,10 @@ I’m a Senior Fullstack Developer with a passion for crafting dynamic, scalable
 - **Cloud:** AWS (EC2, S3, RDS, Lambda), Heroku, DigitalOcean
 - **Testing:** RSpec, Capybara, Jest
 - **Version Control:** Git, GitHub, GitLab, Bitbucket
+
+### Frontend
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS
+- **Frameworks:** React, Next.js, Redux, Context API, Tailwind CSS, Bootstrap
 
 <!-- ## 🛠️ Projects
 
